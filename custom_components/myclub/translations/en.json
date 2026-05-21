@@ -1,0 +1,33 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "MyClub Calendar",
+        "description": "Enter the iCal subscription URL from your MyClub portal. Find it in the calendar settings of your club.",
+        "data": {
+          "name": "Name (e.g. My Sports Club)",
+          "ical_url": "iCal URL",
+          "scan_interval": "Update interval (minutes)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the calendar. Check the URL and network.",
+      "invalid_url": "Invalid URL.",
+      "not_ical": "URL does not return a valid iCal calendar."
+    },
+    "abort": {
+      "already_configured": "This calendar is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "MyClub Options",
+        "data": {
+          "scan_interval": "Update interval (minutes)"
+        }
+      }
+    }
+  }
+}

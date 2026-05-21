@@ -1,0 +1,33 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "MyClub kalenteri",
+        "description": "Syötä MyClub-kalenterin iCal-tilausosoite. Löydät sen MyClub-portaalin kalenteriasetuksista.",
+        "data": {
+          "name": "Nimi (esim. Liikuntaseura)",
+          "ical_url": "iCal-osoite",
+          "scan_interval": "Päivitysväli (minuuttia)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Yhteys kalenteriin epäonnistui. Tarkista URL ja verkkoyhteys.",
+      "invalid_url": "Virheellinen URL-osoite.",
+      "not_ical": "URL ei palauta iCal-kalenteria."
+    },
+    "abort": {
+      "already_configured": "Tämä kalenteri on jo lisätty."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "MyClub asetukset",
+        "data": {
+          "scan_interval": "Päivitysväli (minuuttia)"
+        }
+      }
+    }
+  }
+}
