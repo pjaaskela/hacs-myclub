@@ -185,6 +185,7 @@ logger:
 ## Kehitys ja palaute
 
 - **Bugiraportit ja ehdotukset:** [GitHub Issues](https://github.com/pjaaskela/hacs-myclub/issues)
+- **Tuki kehitykselle:** [Ko-fi ☕](https://ko-fi.com/pjaaskela)
 - **Lisenssi:** MIT
 
 Integraatio toimii kaikkien myclub.fi-pohjaisten seurojen kanssa: joukkueurheiluseurat, tanssi, taitoluistelu, kamppailulajit jne.
