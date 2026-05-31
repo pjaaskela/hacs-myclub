@@ -51,7 +51,7 @@ events:
 2. Paina yläkulman **⋮ (kolme pistettä)** → **Custom repositories**
 3. Syötä URL:
    ```
-   https://github.com/pjaaskel/hacs-myclub
+   https://github.com/pjaaskela/hacs-myclub
    ```
 4. Valitse kategoria: **Integration**
 5. Paina **Add**
@@ -184,7 +184,7 @@ logger:
 
 ## Kehitys ja palaute
 
-- **Bugiraportit ja ehdotukset:** [GitHub Issues](https://github.com/pjaaskel/hacs-myclub/issues)
+- **Bugiraportit ja ehdotukset:** [GitHub Issues](https://github.com/pjaaskela/hacs-myclub/issues)
 - **Lisenssi:** MIT
 
 Integraatio toimii kaikkien myclub.fi-pohjaisten seurojen kanssa: joukkueurheiluseurat, tanssi, taitoluistelu, kamppailulajit jne.
